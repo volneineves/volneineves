@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volneinevs" alt="volneineves" /> </p>
 
 - 🔭 I’m currently working on [Zeréssemos].
-- 🌱 I’m currently learning . **Logical Programation, Portugol, HTML, CSS, JavaScript, SQL (PostgreSQL), UML...**
+- 🌱 I’m currently learning **Logical Programation, Portugol, HTML, CSS, JavaScript, SQL (PostgreSQL), UML...**
 - 📫 How to reach me **volneinevesfilho@gmail.com**
 - ⚡ Fun fact **Toc toc...**
 
