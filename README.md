@@ -7,7 +7,7 @@
 - 📫 How to reach me **volneinevesfilho@gmail.com**
 - ⚡ Fun fact **Toc toc...**
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=volneineves&show_icons=true%22%20alt=%22volneineves"/> 
 </p>
 
