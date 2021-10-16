@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Volnei Neves</h1>
-<h3 align="center">A student who is becoming a programmer</h3>
+<h3 align="center">Junior Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volneinevs" alt="volneineves" /> </p>
 
 - 🔭 I’m currently working on [Best2Bee].
