@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Volnei Neves</h1>
+<h1 align="center">Hi Dev 👋, I'm Volnei Neves</h1>
 <h3 align="center">Junior Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volneinevs" alt="volneineves" /> </p>
 
@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL (PostgreSQL), UML, Java, Spring Boot, React js, React Native...**
 - 📫 How to reach me **volneinevesfilho@gmail.com**
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=volneineves&show_icons=true%22%20alt=%22volneineves"/> 
-</p>
+<div>
+<img height"180em" align="center" src="https://github-readme-stats.vercel.app/api?username=volneineves&hide_border=green&show_icons=true&theme=tokyonight&include_all_commits=true&count"/>
+<img height"180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volneineves&hide_border=blue&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/volnei-paulino-neves-filho-495a84168/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volneineves" height="20" width="20" /></a>
