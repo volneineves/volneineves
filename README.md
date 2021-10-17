@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL (PostgreSQL), UML, Java, Spring Boot, React js, React Native...**
 - 📫 How to reach me **volneinevesfilho@gmail.com**
 
-<div>
+<div align="center">
 <img height"180em" align="center" src="https://github-readme-stats.vercel.app/api?username=volneineves&hide_border=green&show_icons=true&theme=tokyonight&include_all_commits=true&count"/>
 </div>
 
