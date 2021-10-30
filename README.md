@@ -2,8 +2,8 @@
 <h3 align="center">Junior Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volneinevs" alt="volneineves" /> </p>
 
-- 🔭 I’m currently working on [Best2Bee].
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL (PostgreSQL), UML, Java, Spring Boot, React js, React Native...**
+- 🔭 Working on [Best2Bee].
+- 🌱 Learning **HTML, CSS, JavaScript, SQL (PostgreSQL), UML, Java, Spring Boot, React js, React Native...**
 - 📫 How to reach me **volneinevesfilho@hotmail.com**
 
 <div align="center">
