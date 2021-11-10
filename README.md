@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volneinevs" alt="volneineves" /> </p>
 
 - 🔭 Working on [Best2Bee].
-- 🌱 Learning **HTML, CSS, JavaScript, SQL (PostgreSQL), UML, Java, Spring Boot, React js, React Native...**
+- 🌱 Learning **JavaScript, SQL, Java, Spring Boot, React js, React Native...**
 - 📫 How to reach me **volneinevesfilho@hotmail.com**
 
 <div align="center">
