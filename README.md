@@ -1,7 +1,7 @@
 -      🧍‍♂️ Volnei Neves
 -      💻 Desenvolvedor Full Stack
--  
-
+-      🎓 Student of Computer Systems Technology at UFF
+-      👨‍💻 Developer at [Best2bee](https://best2bee.com.br)
       
 <div>
  <div align="center">
