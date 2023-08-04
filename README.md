@@ -1,15 +1,18 @@
--      🧍‍♂️ Volnei Neves
--      💻 Desenvolvedor Full Stack
--      🎓 Student of Computer Systems Technology at UFF
--      👨‍💻 Developer at [Best2bee](https://best2bee.com.br)
-      
+🧍‍♂️ Volnei Neves
+
+- 💻 Full Stack Developer
+- 🎓 Student of Computer Systems Technology at UFF
+- 👨‍💻 Developer at [Best2bee](https://best2bee.com.br)
+
 <div>
  <div align="center">
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=552583&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Volnei+Neves👋;Hi+there+I'm+Volnei+Neves👋;Hola+soy+Volnei+Neves👋;你好，我是Volnei+Neves👋;Hallo,+ich+bin+Volnei+Neves👋;Ciao,+sono+Volnei+Neves👋;こんにちは、私はVolnei+Nevesです👋)](https://git.io/typing-svg)
+ 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=552583&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Volnei+Neves👋;Hi+there+I'm+Volnei+Neves👋;Hola+soy+Volnei+Neves👋;你好，我是Volnei+Neves👋;Hallo,+ich+bin+Volnei+Neves👋;Ciao,+sono+Volnei+Neves👋;こんにちは、私はVolnei+Nevesです👋)](https://git.io/typing-svg)
 
   <a href="https://github.com/volneineves">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=volneineves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volneineves&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" width="100%" src="https://github-readme-stats.vercel.app/api?username=volneineves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volneineves&layout=compact&langs_count=7&theme=tokyonight"/>
+ </div>
  </div>
  
  <div style="display: inline_block" align="center"><br>
@@ -30,5 +33,6 @@
     <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
   </div>
 
- ![Snake animation ](https://github.com/volneineves/volneineves/blob/output/dark.svg)
+![Snake animation](https://github.com/volneineves/volneineves/blob/output/dark.svg)
+
 </div>
