@@ -27,5 +27,5 @@
     <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
   </div>
 
- ![Snake animation ](https://github.com/volneineves/volneineves/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation ](https://github.com/volneineves/volneineves/blob/output/dark.svg)
 </div>
