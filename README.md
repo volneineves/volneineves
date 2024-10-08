@@ -1,6 +1,6 @@
 
 
-<div align="left">
+<div align="center">
  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=552583&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Volnei+Neves👋;Hi+there+I'm+Volnei+Neves👋;Hola+soy+Volnei+Neves👋;你好，我是Volnei+Neves👋;Hallo,+ich+bin+Volnei+Neves👋;Ciao,+sono+Volnei+Neves👋;こんにちは、私はVolnei+Nevesです👋)](https://git.io/typing-svg)
 
@@ -38,6 +38,6 @@
     <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
   </div>
 
-<!--![Snake animation](https://github.com/volneineves/volneineves/blob/output/dark.svg)-->
+![Snake animation](https://github.com/volneineves/volneineves/blob/output/dark.svg)
 
 </div>
