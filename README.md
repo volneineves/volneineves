@@ -8,7 +8,7 @@
 
 🎓 Student of Computer Systems Technology at [UFF](https://www.uff.br)
 
-👨‍💻 Worker at [Best2bee](https://best2bee.com.br)
+👨‍💻 Worker at [BTG Pactual](https://www.btgpactual.com)
 
 
 
