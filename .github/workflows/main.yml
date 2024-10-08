@@ -12,15 +12,16 @@ on:
 
 # Regras
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@v2
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: volneineves #Seu usuario
           outputs: |
@@ -28,20 +29,11 @@ jobs:
            dist/light.svg?palette=github&color_snake=#FDB927&color_dots=#F0F0F0,#7B2BF4,#7B3FD6,#9156F5,#9669D6
          
 
-      - run: git status
-
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+# push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
