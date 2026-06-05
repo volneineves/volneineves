@@ -1,43 +1,64 @@
+<div align="center">
 
+<h1>Volnei Neves</h1>
+
+<p><strong>Full Stack Developer</strong></p>
+
+<p>
+  Computer Systems Technology student at <a href="https://www.uff.br">UFF</a>
+  and technology professional at <a href="https://www.btgpactual.com">BTG Pactual</a>.
+</p>
+
+<a href="https://github.com/volneineves">
+  <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-volneineves-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+## About
+
+I work across backend, frontend, cloud, and database layers, with a focus on building maintainable applications and improving engineering practices over time.
+
+My current interests include:
+
+- Backend development with Java, Kotlin, and Spring.
+- Frontend development with React, TypeScript, HTML, and CSS.
+- Data persistence with PostgreSQL, MySQL, and MongoDB.
+- Cloud, containers, automation, and developer experience.
+
+## Tech Stack
 
 <div align="center">
- 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=552583&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Volnei+Neves👋;Hi+there+I'm+Volnei+Neves👋;Hola+soy+Volnei+Neves👋;你好，我是Volnei+Neves👋;Hallo,+ich+bin+Volnei+Neves👋;Ciao,+sono+Volnei+Neves👋;こんにちは、私はVolnei+Nevesです👋)](https://git.io/typing-svg)
+  <img alt="Java" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Kotlin" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img alt="Spring" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="TypeScript" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img alt="JavaScript" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="React" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="HTML5" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="Node.js" height="36" width="46" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
+  <img alt="Git" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="PostgreSQL" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="MongoDB" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="Docker" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="AWS" height="36" width="46" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
+</div>
 
-💻 Full Stack Developer
+## GitHub Activity
 
-🎓 Student of Computer Systems Technology at [UFF](https://www.uff.br)
+<div align="center">
+  <a href="https://github.com/volneineves">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=volneineves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Volnei Neves GitHub stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volneineves&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages" />
+  </a>
+</div>
 
-👨‍💻 Worker at [BTG Pactual](https://www.btgpactual.com)
-
-
-
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/volneineves">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=volneineves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volneineves&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
-  </div>
-  
- 
- <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
-  </div>
-
-![Snake animation](https://github.com/volneineves/volneineves/blob/output/dark.svg)
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/volneineves/volneineves/output/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/volneineves/volneineves/output/light.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/volneineves/volneineves/output/dark.svg" />
+  </picture>
 </div>
