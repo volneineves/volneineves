@@ -12,6 +12,9 @@
 <a href="https://github.com/volneineves">
   <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-volneineves-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/volnei-neves/">
+  <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Volnei%20Neves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -21,7 +24,7 @@ I work across backend, frontend, cloud, and database layers, with a focus on bui
 
 My current interests include:
 
-- Backend development with Java, Kotlin, and Spring.
+- Backend development with Java, Kotlin, Spring, and Node.js.
 - Frontend development with React, TypeScript, HTML, and CSS.
 - Data persistence with PostgreSQL, MySQL, and MongoDB.
 - Cloud, containers, automation, and developer experience.
