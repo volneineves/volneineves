@@ -52,13 +52,6 @@ My current interests include:
 ## GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/volneineves">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=volneineves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Volnei Neves GitHub stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volneineves&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages" />
-  </a>
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/volneineves/volneineves/output/dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/volneineves/volneineves/output/light.svg" />
